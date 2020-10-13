@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>selamat Belajar HTMl</title>
+	</head>
+	<body>
+	<h1 align="center">CURICULUM VITAE</h1>
+		<hr/>
+		 <img src="berisik.jpeg" alt="Image" height="240">
+		<ul>
+	<h2><p>BIODATA DIRI</p></h2>
+			<li>Nama Lengkap:	 Rafly Fadjrian</li>
+			<li>Email			: raflyfadjrian18@gmail.com</li>
+			<li>Alamat			: Jl. Curug Agung RT02/RW09,Tanah Baru,DEPOK</li>
+			<li>Agama 			: Islam
+			<li>Jenis kelamin	: Laki - Laki
+			<li>Tempat/Tgl Lahir: 18-08-2002 ,Depok
+			<li>NO Handphone	: 085819174184
+		</ul>
+		<ul>
+	<h2><p>BIODATA PENDIDIKAN</p></h2>
+	<table style= "widht: 600px;" border="1">
+		<tr style="background-color: rgb(196, 196 ,196);">
+		<tr>
+			<th>Tingkat</th>
+			<th>Nama Sekolah</th>
+		</tr>
+		<tr>
+			<td>SD </td>
+			<td>SDN CIPEDAK 02</td>
+		</tr>
+		<tr>
+			<td>SMP </td>
+			<td>SMP CITRA NEGARA </td>
+		</tr>
+		<tr>
+			<td>SMK </td>
+			<td>SMK CITRA NEGARA </td>
+		</tr>
+	</table>	
+		<ul>	
+	<h2><p>KEMAMPUAN</p></h2>
+			<li>Merakit Komputer</li>
+			<li>Menguasai Microsof Office</li>
+			<li>Photshop</li>
+			<li>CorelDraw</li>
+		</ul>
+	
+	<h4>Social Media<</h4>
+	<a href="https://www.instagram.com/rafly.fdjrnn/">My Instagram Profile</a>
+	<br>
+	<br><a href="https://github.com/raflyfadjrian">My github profile</a>
+</body>
+</html>
